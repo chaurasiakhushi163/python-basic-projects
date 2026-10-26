@@ -23,6 +23,13 @@ There are several concepts included and basic fundamental of python is being cov
 - Palindrome-number-checker
 
 - Prime number checker
+- **concepts learned**
+- 
+- python basics
+- loops
+- conditional statements
+- user input
+- data types,variable
 
 **Author**
 
