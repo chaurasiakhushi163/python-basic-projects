@@ -4,6 +4,8 @@
 Welcome to my python projects repository.
 This repository contains beginner friendly python projects based on concepts I have learned.
 
+There are several concepts included and basic fundamental of python is being covered in these projects.
+
 **Projects**
 
 - Student Grade calculator
@@ -22,3 +24,6 @@ This repository contains beginner friendly python projects based on concepts I h
 
 - Prime number checker
 
+**Author**
+
+Khushi
